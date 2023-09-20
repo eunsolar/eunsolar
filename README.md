@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   <br />
   <br />
  <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+   ![music](https://github.com/eunsolar/eunsolar/assets/109330476/b0f0faa9-c366-4972-b047-e938e06a2bd0)
+
 </p>
 
 <p align="center">
