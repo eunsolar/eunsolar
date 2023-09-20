@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eunsol-Kim&fontSize=90" />
 
-### Hi, My name is Eunsol Kim. I am Game designer aspirant
 </p>
 
 <p align="center">
