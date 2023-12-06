@@ -8,7 +8,16 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
+<details>
+<summary>
+Nice to meet you !
 
+   - Studying</p>
+  ![1](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![2](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+</summary>
+ 
+</details>
 </p>
 
 <p align="center">
