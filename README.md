@@ -12,7 +12,7 @@
 <summary>
 Nice to meet you !
 
-- 작업하는 도구
+- 작업하는 도구</p>
 ![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
    - Studying</p>
