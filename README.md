@@ -14,7 +14,7 @@
 ![exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![papo](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)</p>
 ![mail](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
    ### STYDYING </p>
@@ -39,7 +39,7 @@
 
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunsolar&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=eunsolar&show_icons=true">
+
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
